@@ -107,37 +107,37 @@ const AboutPage = () => {
         >
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand1} alt="" />
+              <img src={brand 1} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand2} alt="" />
+              <img src={brand 2} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand3} alt="" />
+              <img src={brand 3} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand4} alt="" />
+              <img src={brand 4} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand5} alt="" />
+              <img src={brand 5} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand6} alt="" />
+              <img src={brand 6} alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="aboutBrands">
-              <img src={brand7} alt="" />
+              <img src={brand 7} alt="" />
             </div>
           </SwiperSlide>
         </Swiper>
