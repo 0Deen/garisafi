@@ -141,7 +141,7 @@ const Footer = () => {
           <p>
             © {getCurrentYear()} Deen Cars show. All Rights Reserved | Made By{" "}
             <a
-              href="https://github.com/DeenRamah"
+              href="https://github.com/0Deen"
               target="_blank"
               rel="noreferrer"
               style={{ color: "#C22928", textDecoration: "none" }}
