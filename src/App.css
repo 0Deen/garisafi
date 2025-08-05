@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Jost", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+img {
+  background-color: #eff0f1;
+}
+
+@media only screen and (max-width: 1025px) {
+  a {
+    -webkit-tap-highlight-color: transparent; /* For iOS */
+    tap-highlight-color: transparent; /* For Android */
+  }
+
+  div {
+    -webkit-tap-highlight-color: transparent; /* For iOS */
+    tap-highlight-color: transparent; /* For Android */
+  }
+}
